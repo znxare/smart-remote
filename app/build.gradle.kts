@@ -36,7 +36,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.15.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
     // ADB over Wi-Fi (Android 11+ wireless debugging with pairing)
-    implementation("io.github.muntashirakon:libadb-android:3.1.1")
+    implementation("com.github.MuntashirAkon:libadb-android:3.1.1")
     implementation("org.conscrypt:conscrypt-android:2.5.3")
     // Self-signed certificate for the pairing key
     implementation("org.bouncycastle:bcpkix-jdk18on:1.78.1")
